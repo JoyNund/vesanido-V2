@@ -1,0 +1,58 @@
+[
+    {
+        "id": "subte-neon-guest-mix",
+        "title": "Subte Neón: Guest Mix - DJ Mayumixddd",
+        "date": "23.NOV.2024",
+        "time": "21:00 CET",
+        "image": "linear-gradient(135deg, #7f00ff, #ff1744)",
+        "description": "DJ Mayumixddd nos visita este sábado para una sesión especial de 3 horas en Subte Neón.",
+        "content": "<p><strong>DJ Mayumixddd</strong> nos visita este sábado para una sesión especial de 3 horas en Subte Neón.</p><h3>Sobre DJ Mayumixddd</h3><p>Residente en las catacumbas digitales de la escena underground, Mayumixddd ha sido una figura clave en la difusión del synth wave y cold wave en la región. Su estilo mezcla texturas sintéticas oscuras con beats hipnóticos.</p><h3>Qué Esperar</h3><ul><li>Synth wave oscuro y atmosférico</li><li>Cold wave contemporáneo</li><li>Selecciones exclusivas de su colección personal</li><li>Mezclas largas sin interrupciones</li></ul><p><strong>Horario:</strong> Sábado 23 de noviembre, 21:00 - 00:00 CET</p><p>Sintoniza VESÁNICO o únete al chat en vivo durante la transmisión.</p>",
+        "tags": [
+            "live",
+            "guest mix",
+            "synth wave"
+        ]
+    },
+    {
+        "id": "rituales-medianoche-especial",
+        "title": "Rituales de Medianoche: Edición Especial",
+        "date": "25.NOV.2024",
+        "time": "22:00 CET",
+        "image": "linear-gradient(135deg, #000428, #004e92)",
+        "description": "Sesión extendida de Rituales de Medianoche con 3 horas de post-punk clásico y dark wave contemporáneo.",
+        "content": "<p>Sesión extendida de <strong>Rituales de Medianoche</strong> con 3 horas de post-punk clásico y dark wave contemporáneo.</p><h3>Temática de la Noche</h3><p>Esta edición especial explorará la evolución del post-punk desde sus raíces en los 70s hasta las bandas actuales que mantienen viva la llama.</p><h3>Artistas Destacados</h3><ul><li>Joy Division</li><li>Bauhaus</li><li>Siouxsie and the Banshees</li><li>The Cure</li><li>Interpol</li><li>Editors</li><li>Molchat Doma</li><li>Motorama</li></ul><p>Un viaje sonoro sin pausas, sin comerciales, solo música.</p>",
+        "tags": [
+            "ritual",
+            "especial",
+            "post-punk"
+        ]
+    },
+    {
+        "id": "maraton-industrial",
+        "title": "Maratón Industrial: 6 horas sin pausa",
+        "date": "27.NOV.2024",
+        "time": "00:00 CET",
+        "image": "linear-gradient(135deg, #141E30, #243B55)",
+        "description": "Una inmersión total en el sonido industrial. 6 horas continuas explorando desde los pioneros hasta los exponentes más recientes del género.",
+        "content": "<p>Una inmersión total en el sonido industrial. <strong>6 horas continuas</strong> explorando desde los pioneros hasta los exponentes más recientes del género.</p><h3>Estructura del Maratón</h3><p><strong>00:00 - 02:00</strong> - Los Pioneros<br>Throbbing Gristle, Cabaret Voltaire, SPK, NON</p><p><strong>02:00 - 04:00</strong> - EBM y Body Music<br>Front 242, Nitzer Ebb, Front Line Assembly, Skinny Puppy</p><p><strong>04:00 - 06:00</strong> - Industrial Contemporáneo<br>Youth Code, Author & Punisher, Pharmakon, Uniform</p><p>Sin pausas, sin concesiones. Solo ruido estructurado.</p>",
+        "tags": [
+            "maratón",
+            "industrial",
+            "sin pausas"
+        ]
+    },
+    {
+        "id": "festival-dark-frequencies-cobertura",
+        "title": "Cobertura: Festival Dark Frequencies",
+        "date": "30.NOV.2024",
+        "time": "20:00 CET",
+        "image": "linear-gradient(135deg, #2C3E50, #4CA1AF)",
+        "description": "VESÁNICO realizará cobertura en vivo desde el Festival Dark Frequencies con transmisión especial de 6 horas.",
+        "content": "<p>VESÁNICO realizará <strong>cobertura en vivo</strong> desde el Festival Dark Frequencies con transmisión especial de 6 horas.</p><h3>Programación de Cobertura</h3><p><strong>20:00 - 21:00</strong> - Pre-show<br>Ambiente del festival, entrevistas con asistentes</p><p><strong>21:00 - 23:00</strong> - Sets en Vivo<br>Transmisión de presentaciones seleccionadas</p><p><strong>23:00 - 02:00</strong> - After Hours<br>Entrevistas con artistas, highlights del día</p><h3>Artistas Confirmados para Transmisión</h3><ul><li>Boy Harsher (set completo)</li><li>Molchat Doma (set completo)</li><li>Entrevista exclusiva con Lebanon Hanover</li><li>Behind the scenes con She Past Away</li></ul><p>Únete a nosotros para vivir el festival desde cualquier parte del mundo.</p>",
+        "tags": [
+            "festival",
+            "en vivo",
+            "cobertura"
+        ]
+    }
+]

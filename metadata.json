@@ -1,0 +1,7 @@
+{
+  "name": "Radio Vesánico",
+  "description": "Reproductor de radio web con panel de comentarios en vivo. Punk, post-punk y rock alternativo.",
+  "version": "1.0.0",
+  "author": "Radio Vesánico Team",
+  "requestFramePermissions": []
+}

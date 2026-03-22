@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "She Past Away – \"Disko Anksiyete\"",
+    "description": "La banda turca de dark wave presenta su nuevo álbum",
+    "cover": "https://f4.bcbits.com/img/a3781816541_10",
+    "episodes": [
+      {
+        "id": "ep1",
+        "podcastId": "1",
+        "title": "Entrevista exclusiva con Volkan Caner",
+        "description": "Hablamos con el frontman de She Past Away sobre su proceso creativo",
+        "audioUrl": "",
+        "duration": "45:00",
+        "publishedAt": "2024-11-01T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Historias del Underground",
+    "description": "Documentales sonoros sobre la escena post-punk",
+    "cover": "linear-gradient(135deg, #141E30, #243B55)",
+    "episodes": []
+  }
+]
